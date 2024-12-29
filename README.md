@@ -59,6 +59,7 @@ Follow these steps to set up the AI Customer Agent:
 Detailed documentation is available in the [Wiki](#) (coming soon).
 
 ---
+![image ait](https://github.com/sriramsowmithri9807/Ai-Costomer-Agent/blob/c677f7912aa8ecd657b1aaa3368a117b88ccda41/Screenshot%202024-12-29%20111310.png)
 
 ## 🤝 Contributions
 
