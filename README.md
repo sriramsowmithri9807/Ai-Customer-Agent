@@ -81,4 +81,3 @@ For questions or feedback, please reach out via:
 ## ⭐ Acknowledgments
 
 - Thanks to the **LangFlow** community for their support.
-- Inspired by the power of conversational AI to revolutionize customer service.
